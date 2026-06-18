@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+ <plist version="1.0">
+ <dict>
+     <key>items</key>
+     <array>
+         <dict>
+             <key>assets</key>
+             <array>
+                 <dict>
+                     <key>kind</key>
+                     <string>software-package</string>
+                     <key>url</key>
+                     <string>https://zomato-internal.s3.ap-southeast-1.amazonaws.com/ios/builds/inch-mokshit-airport.ipa?response-content-disposition=inline&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDmFwLXNvdXRoZWFzdC0xIkcwRQIhAJZBj20P1lLHQQJgKcGWWbq7ZItIrOBIEjOOIJ7QY5WXAiA0WmqA%2Foyn3xvRNusmtL5bOQiT3hFAggZQj2GK35rszCqyBAip%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDkzMTMwMTcwNzUyOSIM0hsz7yFpYwrLHT%2BUKoYErk8ALBD3iManxeQXbWniAcK1TS%2B44%2BECQVDzLkvRd3ZFUBGB2LSFVJ09cFZn6KAvEB2elQQoAmezL1meWeejlel5avpeMjJ8MgxQxaBVrkA1XDZikMSwHvXY824pGobrhiCLb3dzP44tU7kbaheCSmyO0yvEDPnR6ZsKuWJM0Lu7J4lO1cg%2Fj9GoNzFxfFyDvDu3rk19l9Xf79PJK10LehUfQIUAZ%2BBMMRVpDWTjs%2FVnBv9k706TmRry0neLyEmd2Pr8vlmSM9k2ov5uxrk63dV4xOGII4jzSY%2BlEi%2F1hFVoM0OIY%2FQn7FRRS7CJ%2Br08Sf8%2BZIF6PE2G1ES12Yk0aosBsni7wv8NCWk6jj79hCUfOql%2BPR64OHXgQ7VzFy68rn7lYvPrY0IdoDPj5cAJdcmy9vMgK3miWTq8m%2B18hCNCXDbACQN%2ByHhu1kMFn9ktMkwDx7u6QD9y%2F4JmsKzmmEzTXI9kKz7AOPRFkyRu261GYIem9FVz0EybuJJkc%2FgzFtUFHG1%2Flq%2Fc6MWENcIdW5kcPS0jatdiq2kaeVUrGaosZz9vpvKNsA%2BXuw9V8D1WNsdKSNq%2BTEj%2BW7IHAM2mIcmCMkh5724%2B%2B%2Faevat0bTc7JrgeJ4m2VeRWnPlZf8p8SOrw3mFd4nJ5j8AGzjYdARvW2TpoJkuasF8fwxl5NGmCEBl0EzswoIbQ0QY64AJVtNYrnXo%2BfTsGONs9LTJlFQkZaNHW7a%2FoXXmYiPEO06OmRrOtc0zwk%2FfWZFfgHugzNjPZiaglqPBLoEYjpsunfCe1mDK78vzp1i24gazFuFq%2FLennWowOZBNEyjktRDEh6MSY5PKgHXOfKnGod15OQPMX3LC07pwxlQq36MKRixBB98waSExz5VukHyMQYfpW1v6cSghgAU7r1rQ0SX8Ixs%2FtbDhbQNexny7ywyTjupB2jj6qjY6I97Hd%2B6vB%2FZe1%2FQB097oXOLw66RxHSPgZBc1WuQXrY8lZJLV9u7RrpXQ9l49WA5N0Mi3YGNdiugag5y%2FA1H3pNz93arjY9lF9S7c2d85%2BCB8uE%2BCFpchJDQ6%2B1CEDpxhLOigppcVsbv5DzbAkDsehwcHxqHbJkr2qGdg7HRdB4PBEodFW%2FvFgpXvtMFiFjvhJQ9d1J10d7VtAw5s6cK9SIbtOmYAwoJ3Y&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA5RVPIJ4E6IZUEV6M%2F20260618%2Fap-southeast-1%2Fs3%2Faws4_request&X-Amz-Date=20260618T155152Z&X-Amz-Expires=39600&X-Amz-SignedHeaders=host&X-Amz-Signature=5f141d91feeddf1b8de95ff45344bd72deeee347148f7561172189b723bd46d0</string>
+                 </dict>
+             </array>
+             <key>metadata</key>
+             <dict>
+                 <key>bundle-identifier</key>
+                 <string>com.inch.dev</string>
+                 <key>bundle-version</key>
+                 <string>1.0</string>
+                 <key>kind</key>
+                 <string>software</string>
+                 <key>title</key>
+                 <string>Inch</string>
+             </dict>
+         </dict>
+     </array>
+ </dict>
+ </plist>
